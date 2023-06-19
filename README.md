@@ -1,2 +1,2 @@
 # TesteWeb
-Este repositório é para fazer testes no gitbub
+Este repositório é para fazer testes no github
